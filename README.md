@@ -129,7 +129,7 @@
 
 1. ***Python & (Pandas, NumPy, Visualization) →*** Python Fundamentals 
 2. ***Machine Learning*** → What is Machine Learning? | 100 Days of Machine Learning
-3. ***Deep Learning*** → 100 Days of Deep Learning | Course Announcement
+3. ***Deep Learning*** → Deep Learning
 4. ***PyTorch →*** PyTorch 
 5. ***Fast API*** → What is an API? | Introduction to APIs
 6. ***Claude Code*** → Learn AI Coding the Right Way (No Vibe Coding) | New Playlist | CampusX
